@@ -1,6 +1,6 @@
 
 # H4XORNews-appbrewery
-practice app
+sample app for appbrewery
 
 ## Completed App
 ![Gif Capture](Documentation/H4XORNews.gif)
